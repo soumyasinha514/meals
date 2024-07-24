@@ -1,16 +1,4 @@
 # meals
 
-A new Flutter project.
+Discover a world of culinary delights with our Meals App. Explore category-wise meals, easily marking your favorites for quick access. Customize your dining experience by filtering meals based on your preferences, ensuring you find exactly what you're craving. Enjoy a seamless, personalized journey through a diverse menu designed to satisfy every palate.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
